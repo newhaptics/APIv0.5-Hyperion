@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.1">
+<qresource>
+    <file alias="main_logo">NewHaptics_Logo_Final_RGB.png</file>
+    <file alias="refresh">refresh_logo.png</file>
+    <file alias="main_symbol">FC_Lab_Symbol.png</file>
+    <file alias="HE_logo">Haptics_Engine_logo_style.png</file>
+    <file alias="HE_symbol">Haptics_Engine_Symbol.png</file>
+    <file alias="emptyPin">hollow_circle.svg</file>
+    <file alias="filledPin">filled_circle.png</file>
+    <file alias="fill">fill.png</file>
+    <file alias="stroke">stroke_title.png</file>
+    <file alias="erase">erase.png</file>
+    <file alias="Fclear">Force_clear.png</file>
+    <file alias="dot">dot.png</file>
+    <file alias="line">line.png</file>
+    <file alias="curve">bezier_curve.png</file>
+    <file alias="circle">circle.png</file>
+    <file alias="square">square.png</file>
+    <file alias="triangle">triangle.png</file>
+    <file alias="polygon">polygon.png</file>
+    <file alias="braille">braille.png</file>
+    <file alias="text">giant_T.png</file>
+    <file alias="textTitle">text_title.png</file>
+    </qresource>
+</RCC>

@@ -1,1 +1,1 @@
-pyinstaller --noconfirm --onedir --windowed --icon "C:/Users/alex/OneDrive/FC_Lab/FC_GUI_API/Python_GUI_bck_up/resources/FC_Lab_Symbol.ico"  "C:/Users/alex/OneDrive/FC_Lab/FC_GUI_API/APIv0.5-Hyperion/Vizv0.51/HapticVisualizer.py"
+pyinstaller --noconfirm --onedir --windowed --icon "FC_Lab_Symbol.ico"  "HapticVisualizer.py"

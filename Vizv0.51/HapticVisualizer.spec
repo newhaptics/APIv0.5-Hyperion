@@ -1,5 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
 
+
 block_cipher = None
 
 
@@ -26,7 +27,7 @@ exe = EXE(pyz,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
-          console=False )
+          console=False , icon='FC_Lab_Symbol.ico')
 coll = COLLECT(exe,
                a.binaries,
                a.zipfiles,
